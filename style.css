@@ -2,6 +2,14 @@ h1{
     color: aquamarine;
 }
 p{
-    background-color: brown;
-    color:chartreuse;
+font-size: x-large;
+    color:rgb(25, 0, 255);
+}
+.top img{
+    width: 300px;
+    height: 400px;
+}
+.botom button{
+    width: 100px;
+    height: 20px;
 }
